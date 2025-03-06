@@ -76,4 +76,4 @@
     - 概要：大学をモデリングしたもの。Blender。
     - リンク：[バーチャル名工大正門前ver4.0｜メタバースプラットフォーム cluster（クラスター）](https://cluster.mu/w/f4c89c0d-720e-42b7-ad00-883c00e283c1)
         - 画像：
-        - ![alt text](image-24.png)![alt text](image-16-1.png)
+        - <img src="image-24.png" alt="alt text" width="200" height="200" style="object-fit: cover;"> <img src="image-16-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;">
