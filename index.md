@@ -1,5 +1,5 @@
 
-https://github.com/ysdzm
+[GitHub - (dokudami)](https://github.com/ysdzm)
 
 ## ゲーム
 
