@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+
+    <!-- PhotoSwipe CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.3/photoswipe.css">
+</head>
+<body>
+
+    {{ content }}
+
+    <!-- PhotoSwipe コンテナ -->
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="pswp__bg"></div>
+        <div class="pswp__scroll-wrap">
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+            <div class="pswp__ui pswp__ui--hidden">
+                <div class="pswp__top-bar">
+                    <button class="pswp__button pswp__button--close"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- PhotoSwipe JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.3/photoswipe.umd.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const gallery = new PhotoSwipe.Lightbox({
+                gallery: "body",
+                children: "a[data-pswp-width]",
+                pswpModule: () => import("https://cdnjs.cloudflare.com/ajax/libs/photoswipe/5.3.3/photoswipe.esm.min.js")
+            });
+            gallery.init();
+        });
+    </script>
+
+</body>
+</html>
