@@ -1,5 +1,5 @@
 ---
-title: PhotoSwipe Test
+title: "自分の好きなタイトル2"
 ---
 
 # Portfolio
