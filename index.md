@@ -73,6 +73,11 @@
     - リンク：[情報処理学会第86回全国大会 identicon-modelを用いたアバタ作成のための探索的デザイン補助キャラクター作成インタフェース](https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/2ZF-05.html)
     - 画像：
         - <a href="images/image-6.png" target="_blank"><img src="images/image-6.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+- 人流可視化システム
+    - 概要：人流を凝集して可視化するシステムを実装したもの。Unity。
+    - リンク：[wiss.org/WISS2024Proceedings/data/demo//3-A04.pdf](https://www.wiss.org/WISS2024Proceedings/data/demo//3-A04.pdf)
+    - 画像：
+        - <a href="images/image-34.png" target="_blank"><img src="images/image-34.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/clustering.gif" target="_blank"><img src="images/clustering.gif" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
 ## 3Dモデル
 - バーチャル名工大
