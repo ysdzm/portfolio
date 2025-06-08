@@ -55,6 +55,14 @@
 - python-make-git
     - 概要：LightningTalkの規格としてgitをpythonで再実装したもの。Python。
     - リンク：[ysdzm/python-make-git: pythonでgitの挙動をシミュレートしたい](https://github.com/ysdzm/python-make-git)
+- おえかきBlendShape（pixivハッカソン）
+    - 概要：vrmモデルの表情にラクガキができるようにするアプリ。Unity。
+    - リンク：[【C0de*pixivハッカソン】おえかきBlendShape - 道端のドクダミ](https://dokudamichang.hatenablog.com/entry/2024/02/10/034112)
+    - 画像：
+        - <a href="images/image-13-1.png" target="_blank"><img src="images/image-13-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+## 研究
+
 - identicon-model
     - 概要：identiconを3Dモデル拡張したidenticon-modelを作ってみたもの。Unity。
     - リンク：[identicon-model フリーゲーム投稿サイト unityroom](https://unityroom.com/games/identicon-model)
@@ -65,11 +73,6 @@
     - リンク：[情報処理学会第86回全国大会 identicon-modelを用いたアバタ作成のための探索的デザイン補助キャラクター作成インタフェース](https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/2ZF-05.html)
     - 画像：
         - <a href="images/image-6.png" target="_blank"><img src="images/image-6.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
-- おえかきBlendShape（pixivハッカソン）
-    - 概要：vrmモデルの表情にラクガキができるようにするアプリ。Unity。
-    - リンク：[【C0de*pixivハッカソン】おえかきBlendShape - 道端のドクダミ](https://dokudamichang.hatenablog.com/entry/2024/02/10/034112)
-    - 画像：
-        - <a href="images/image-13-1.png" target="_blank"><img src="images/image-13-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
 ## 3Dモデル
 - バーチャル名工大
