@@ -53,7 +53,7 @@
     - 画像：
         - <a href="images/image-13.png" target="_blank"><img src="images/image-13.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 - python-make-git
-    - 概要：LightningTalkの規格としてgitをpythonで再実装したもの。Python。
+    - 概要：LTの企画としてgitをpythonで再実装したもの。Python。
     - リンク：[ysdzm/python-make-git: pythonでgitの挙動をシミュレートしたい](https://github.com/ysdzm/python-make-git)
 - おえかきBlendShape（pixivハッカソン）
     - 概要：vrmモデルの表情にラクガキができるようにするアプリ。Unity。
