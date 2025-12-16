@@ -2,8 +2,6 @@
 layout: toc
 ---
 
-[![pages-build-deployment](https://github.com/ysdzm/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ysdzm/portfolio/actions/workflows/pages/pages-build-deployment)
-
 ## リンク
 
 - <https://github.com/ysdzm>
