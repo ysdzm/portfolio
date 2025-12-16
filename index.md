@@ -6,9 +6,9 @@ layout: toc
 
 ## リンク
 
-- https://github.com/ysdzm
-- https://qiita.com/dokudami
-- https://dokudamichang.hatenablog.com/archive
+- <https://github.com/ysdzm>
+- <https://qiita.com/dokudami>
+- <https://dokudamichang.hatenablog.com/archive>
 
 ## ゲーム
 
@@ -111,9 +111,11 @@ layout: toc
 
 <style>
 
-a:is([href^="https://github.com/"],
-    [href^="https://dokudamichang.hatenablog.com/"],
-    [href^="https://qiita.com/"])::before {
+a:is(
+  [href^="https://github.com/"],
+  [href^="https://dokudamichang.hatenablog.com/"],
+  [href^="https://qiita.com/"]
+):not(:has(img))::before {
     content: '';
     display: inline-block;
     width: 16px;
@@ -121,10 +123,11 @@ a:is([href^="https://github.com/"],
     vertical-align: -3px;
     margin-right: 5px;
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
-a[href^="https://github.com/"]::before {
-    background: url(http://www.google.com/s2/favicons?domain=https://github.com/);
+a[href^="https://github.com/"]:not(:has(img))::before {
+    background-image: url(https://www.google.com/s2/favicons?domain=github.com);
 }
 
 a[href^="https://dokudamichang.hatenablog.com/"]::before {
