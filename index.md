@@ -7,7 +7,6 @@ layout: toc
 - <https://github.com/ysdzm>
 - <https://qiita.com/dokudami>
 - <https://dokudamichang.hatenablog.com/archive>
-- <https://blog.dokudamibox.net/>
 
 ## ゲーム
 
