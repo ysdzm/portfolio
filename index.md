@@ -1,3 +1,6 @@
+---
+layout: toc
+---
 
 [GitHub - (dokudami)](https://github.com/ysdzm)
 
