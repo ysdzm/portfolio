@@ -2,7 +2,13 @@
 layout: toc
 ---
 
-[GitHub - (dokudami)](https://github.com/ysdzm)
+[![pages-build-deployment](https://github.com/ysdzm/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ysdzm/portfolio/actions/workflows/pages/pages-build-deployment)
+
+## リンク
+
+- https://github.com/ysdzm
+- https://qiita.com/dokudami
+- https://dokudamichang.hatenablog.com/archive
 
 ## ゲーム
 
@@ -102,4 +108,31 @@ layout: toc
 
 ## 謝辞
 - チーム開発においてご協力いただいた大学サークルの部員の皆様に、心より感謝の意を表します。
-- [![pages-build-deployment](https://github.com/ysdzm/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ysdzm/portfolio/actions/workflows/pages/pages-build-deployment)
+
+<style>
+
+a:is([href^="https://github.com/"],
+    [href^="https://dokudamichang.hatenablog.com/"],
+    [href^="https://qiita.com/"])::before {
+    content: '';
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: -3px;
+    margin-right: 5px;
+    background-size: contain;
+}
+
+a[href^="https://github.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://github.com/);
+}
+
+a[href^="https://dokudamichang.hatenablog.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://dokudamichang.hatenablog.com/);
+}
+
+a[href^="https://qiita.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://qiita.com/);
+}
+  
+</style>
