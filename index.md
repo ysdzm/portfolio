@@ -222,13 +222,26 @@ a[href^="https://ivrc.net/"]::before {
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.css">
 
+<style>
+  #gallery a {
+    display: inline-block;
+    margin: 6px;
+  }
+  #gallery img.thumb {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+  }
+</style>
+
 <div class="pswp-gallery" id="gallery">
-  <a href="images/image-24.png" data-pswp-width="2000" data-pswp-height="2000">
-    <img src="images/image-24.png" alt="alt text" width="200" height="200" style="object-fit: cover;">
+  <a href="images/image-24.png">
+    <img src="images/image-24.png" alt="alt text" class="thumb">
   </a>
 
-  <a href="images/image-16-1.png" data-pswp-width="2000" data-pswp-height="2000">
-    <img src="images/image-16-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;">
+  <a href="images/image-16-1.png">
+    <img src="images/image-16-1.png" alt="alt text" class="thumb">
   </a>
 </div>
 
@@ -239,6 +252,15 @@ a[href^="https://ivrc.net/"]::before {
     gallery: '#gallery',
     children: 'a',
     pswpModule: () => import('https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.esm.min.js'),
+  });
+
+  lightbox.addFilter('itemData', (itemData, index) => {
+    const img = itemData.element.querySelector('img');
+    if (img && img.naturalWidth && img.naturalHeight) {
+      itemData.width  = img.naturalWidth;
+      itemData.height = img.naturalHeight;
+    }
+    return itemData;
   });
 
   lightbox.init();
