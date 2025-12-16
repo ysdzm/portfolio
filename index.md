@@ -17,8 +17,7 @@ layout: toc
 - リンク：
     - <https://nitmic.club.nitech.ac.jp/post/0004/>
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
+    - <div class="pswp-gallery" id="gallery">
   <a href="images/image.png">
     <img src="images/image.png" alt="alt text" class="thumb">
   </a>
