@@ -250,6 +250,12 @@ layout: toc
 ## 謝辞
 - チーム開発においてご協力いただいた大学サークルの部員の皆様に、心より感謝の意を表します。
 
+<hr>
+
+<p style="text-align:center; font-size:0.8em; color:#666;">
+  © 2025 dokudami
+</p>
+
 <style>
 
 a:is(
@@ -347,3 +353,4 @@ a[href^="https://ivrc.net/"]::before {
 
   lightbox.init();
 </script>
+
