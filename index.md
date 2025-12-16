@@ -2,13 +2,13 @@
 layout: toc
 ---
 
-## リンク
+## 🔗 リンク
 
 - <https://github.com/ysdzm>
 - <https://qiita.com/dokudami>
 - <https://dokudamichang.hatenablog.com/archive>
 
-## ゲーム
+## 👾 ゲーム
 
 ### Twinst ボス戦（2020）
 - 概要：
@@ -86,7 +86,7 @@ layout: toc
         </a>
         </div>
 
-## Web
+## 💻 Web
 
 ### サークルWebサイト
 - 概要：
@@ -118,7 +118,7 @@ layout: toc
 - リンク：
     - [ysdzm/nitech-daigakuin-rishu-checker: 名古屋工業大学の大学院履修登録をチェックするWebアプリ](https://github.com/ysdzm/nitech-daigakuin-rishu-checker)
 
-## その他
+## 🧩 その他
 
 ### OculusQuestハンドトラッキング
 - 概要：
@@ -168,7 +168,7 @@ layout: toc
         </a>
         </div>
 
-## 研究
+## 🔬 研究
 
 ### identicon-model
 - 概要：
@@ -209,7 +209,7 @@ layout: toc
         </a>
         </div>
 
-## 3Dモデル
+## 🧊 3Dモデル
 
 ### バーチャル名工大
 - 概要：
