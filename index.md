@@ -35,24 +35,23 @@ layout: toc
 - リンク：
     - [もう一人の自分探し(2021) IVRC History Archive](https://ivrc.net/archive/%E3%82%82%E3%81%86%E4%B8%80%E4%BA%BA%E3%81%AE%E8%87%AA%E5%88%86%E6%8E%A2%E3%81%972021/)
 - 画像：
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-7.png">
+            <img src="images/image-7.png" alt="alt text" class="thumb">
+        </a>
 
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-7.png">
-    <img src="images/image-7.png" alt="alt text" class="thumb">
-  </a>
+        <a href="images/image-9.png">
+            <img src="images/image-9.png" alt="alt text" class="thumb">
+        </a>
 
-  <a href="images/image-9.png">
-    <img src="images/image-9.png" alt="alt text" class="thumb">
-  </a>
+        <a href="images/image-19.png">
+            <img src="images/image-19.png" alt="alt text" class="thumb">
+        </a>
 
-  <a href="images/image-19.png">
-    <img src="images/image-19.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-20.png">
-    <img src="images/image-20.png" alt="alt text" class="thumb">
-  </a>
-</div>
+        <a href="images/image-20.png">
+            <img src="images/image-20.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 
 ### nitechRacing（2021）
@@ -61,12 +60,11 @@ layout: toc
 - リンク：
     - なし
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-14.png">
-    <img src="images/image-14.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-14.png">
+            <img src="images/image-14.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### GlideGirl（2022）
 - 概要：
@@ -74,24 +72,20 @@ layout: toc
 - リンク：
     - <https://nitmic.club.nitech.ac.jp/post/glide-girl/>
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-12.png">
-    <img src="images/image-12.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-3.png">
-    <img src="images/image-3.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-4.png">
-    <img src="images/image-4.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-5.png">
-    <img src="images/image-5.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-12.png">
+            <img src="images/image-12.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-3.png">
+            <img src="images/image-3.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-4.png">
+            <img src="images/image-4.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-5.png">
+            <img src="images/image-5.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ## Web
 
@@ -101,12 +95,11 @@ layout: toc
 - リンク：
     - <https://github.com/nitmic/nitmic-website>
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-15.png">
-    <img src="images/image-15.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-15.png">
+            <img src="images/image-15.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### 個人サイト
 - 概要：
@@ -114,12 +107,11 @@ layout: toc
 - リンク：
     - <https://blog.dokudamibox.net/>
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-16.png">
-    <img src="images/image-16.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-16.png">
+            <img src="images/image-16.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### 名工大大学院履修チェッカー
 - 概要：
@@ -135,20 +127,17 @@ layout: toc
 - リンク：
     - [Midnight tension - YouTube](https://www.youtube.com/watch?v=BEyPwZgyrFE&embeds_referring_euri=https%3A%2F%2Fdokudamibox.net%2F)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-29.png">
-    <img src="images/image-29.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-30.png">
-    <img src="images/image-30.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-33.png">
-    <img src="images/image-33.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-29.png">
+            <img src="images/image-29.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-30.png">
+            <img src="images/image-30.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-33.png">
+            <img src="images/image-33.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### IroShpere-vrm
 - 概要：
@@ -156,12 +145,11 @@ layout: toc
 - リンク：
     - [ysdzm/IroSphere-vrm](https://github.com/ysdzm/IroSphere-vrm)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-13.png">
-    <img src="images/image-13.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-13.png">
+            <img src="images/image-13.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### python-make-git
 - 概要：
@@ -175,12 +163,11 @@ layout: toc
 - リンク：
     - [【C0de*pixivハッカソン】おえかきBlendShape - 道端のドクダミ](https://dokudamichang.hatenablog.com/entry/2024/02/10/034112)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-13-1.png">
-    <img src="images/image-13-1.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-13-1.png">
+            <img src="images/image-13-1.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ## 研究
 
@@ -190,12 +177,11 @@ layout: toc
 - リンク：
     - [identicon-model フリーゲーム投稿サイト unityroom](https://unityroom.com/games/identicon-model)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-11.png">
-    <img src="images/image-11.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-11.png">
+            <img src="images/image-11.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### identicon-model-maker
 - 概要：
@@ -203,12 +189,11 @@ layout: toc
 - リンク：
     - [情報処理学会第86回全国大会 identicon-modelを用いたアバタ作成のための探索的デザイン補助キャラクター作成インタフェース](https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/2ZF-05.html)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-6.png">
-    <img src="images/image-6.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-6.png">
+            <img src="images/image-6.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ### 人流可視化システム
 - 概要：
@@ -216,16 +201,14 @@ layout: toc
 - リンク：
     - [wiss.org/WISS2024Proceedings/data/demo//3-A04.pdf](https://www.wiss.org/WISS2024Proceedings/data/demo//3-A04.pdf)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-34.png">
-    <img src="images/image-34.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/clustering.gif">
-    <img src="images/clustering.gif" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-34.png">
+            <img src="images/image-34.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/clustering.gif">
+            <img src="images/clustering.gif" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ## 3Dモデル
 
@@ -235,16 +218,14 @@ layout: toc
 - リンク：
     - [バーチャル名工大正門前ver4.0｜メタバースプラットフォーム cluster（クラスター）](https://cluster.mu/w/f4c89c0d-720e-42b7-ad00-883c00e283c1)
 - 画像：
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-24.png">
-    <img src="images/image-24.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-16-1.png">
-    <img src="images/image-16-1.png" alt="alt text" class="thumb">
-  </a>
-</div>
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-24.png">
+            <img src="images/image-24.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-16-1.png">
+            <img src="images/image-16-1.png" alt="alt text" class="thumb">
+        </a>
+        </div>
 
 ## 謝辞
 - チーム開発においてご協力いただいた大学サークルの部員の皆様に、心より感謝の意を表します。
@@ -324,16 +305,6 @@ a[href^="https://ivrc.net/"]::before {
     display: block;
   }
 </style>
-
-<div class="pswp-gallery" id="gallery">
-  <a href="images/image-24.png">
-    <img src="images/image-24.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-16-1.png">
-    <img src="images/image-16-1.png" alt="alt text" class="thumb">
-  </a>
-</div>
 
 <script type="module">
   import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5.4.2/dist/photoswipe-lightbox.esm.min.js';
