@@ -27,7 +27,7 @@ layout: toc
         <a href="images/image-2.png">
             <img src="images/image-2.png" alt="alt text" class="thumb">
         </a>
-    </div>
+        </div>
 
 ### もう一人の自分探し（2021）
 - 概要：
