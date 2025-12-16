@@ -302,6 +302,7 @@ a[href^="https://ivrc.net/"]::before {
     height: 200px;
     object-fit: cover;
     display: block;
+    filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.25));
   }
 </style>
 
