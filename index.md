@@ -168,6 +168,27 @@ layout: toc
         </a>
         </div>
 
+### 86ちゃん（2025）
+- 概要：
+    - XRKaigi2025にて展示させていただいた「８６ちゃん」という対話システムのデザイン・フロントエンドの実装。Unity。
+- リンク：
+    - [【Unity】VRMモデルをランタイムロードして表情・体・口を動かす #UniVRM - Qiita](https://qiita.com/dokudami/items/75c0a8e17af94c0e57c0)
+- 画像：
+    - <div class="pswp-gallery" id="gallery">
+        <a href="images/image-36.png">
+            <img src="images/image-36.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-35.png">
+            <img src="images/image-35.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-37.png">
+            <img src="images/image-37.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/86-chan.gif">
+            <img src="images/86-chan.gif" alt="alt text" class="thumb">
+        </a>
+        </div>
+
 ## 🔬 研究
 
 ### identicon-model（2023）
