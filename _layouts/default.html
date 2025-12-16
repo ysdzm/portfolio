@@ -1,20 +1,2 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title | default: site.title }}</title>
-</head>
-<body>
-
-  <!-- 目次 -->
-  <nav class="toc">
-    {% include toc.html html=content h_min=2 %}
-  </nav>
-
-  <!-- 本文 -->
-  <main>
-    {{ content }}
-  </main>
-
-</body>
-</html>
+{% include toc.html html=content %}
+{{ content }}
