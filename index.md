@@ -15,7 +15,7 @@ layout: toc
 - 概要：
     - 大学サークルで作成したゲーム。ボス戦のプログラムを担当。Unity。
 - リンク：
-    - [Twinst - NITMic](https://nitmic.club.nitech.ac.jp/post/0004/)
+    - <https://nitmic.club.nitech.ac.jp/post/0004/>
 - 画像：
     - <a href="images/image.png" target="_blank"><img src="images/image.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-1.png" target="_blank"><img src="images/image-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-2.png" target="_blank"><img src="images/image-2.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
@@ -39,7 +39,7 @@ layout: toc
 - 概要：
     - 大学サークルで作成したゲーム。プログラムを担当。Unity。
 - リンク：
-    - https://nitmic.club.nitech.ac.jp/post/glide-girl/
+    - <https://nitmic.club.nitech.ac.jp/post/glide-girl/>
 - 画像：
     - <a href="images/image-12.png" target="_blank"><img src="images/image-12.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-3.png" target="_blank"><img src="images/image-3.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-4.png" target="_blank"><img src="images/image-4.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-5.png" target="_blank"><img src="images/image-5.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
@@ -49,7 +49,7 @@ layout: toc
 - 概要：
     - 大学サークルのWebサイトの初期実装を担当。HUGO（Go）。
 - リンク：
-    - [nitmic/nitmic-website: 名古屋工業大学コンピュータ俱楽部 NITMic の公式ウェブサイト](https://github.com/nitmic/nitmic-website)
+    - <https://github.com/nitmic/nitmic-website>
 - 画像：
     - <a href="images/image-15.png" target="_blank"><img src="images/image-15.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
@@ -57,7 +57,7 @@ layout: toc
 - 概要：
     - 個人サイト。React製。
 - リンク：
-    - https://blog.dokudamibox.net/
+    - <https://blog.dokudamibox.net/>
 - 画像：
     - <a href="images/image-16.png" target="_blank"><img src="images/image-16.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
@@ -144,7 +144,12 @@ a:is(
   [href^="https://github.com/"],
   [href^="https://dokudamichang.hatenablog.com/"],
   [href^="https://qiita.com/"],
-  [href^="https://blog.dokudamibox.net/"]
+  [href^="https://blog.dokudamibox.net/"],
+  [href^="https://nitmic.club.nitech.ac.jp/"],
+  [href^="https://www.youtube.com/"],
+  [href^="https://unityroom.com/"],
+  [href^="https://cluster.mu/"],
+  [href^="https://ivrc.net/"]
 ):not(:has(img))::before {
     content: '';
     display: inline-block;
@@ -171,5 +176,25 @@ a[href^="https://qiita.com/"]::before {
 a[href^="https://blog.dokudamibox.net/"]::before {
     background: url(http://www.google.com/s2/favicons?domain=https://blog.dokudamibox.net/);
 }
-  
+
+a[href^="https://nitmic.club.nitech.ac.jp/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://nitmic.club.nitech.ac.jp/);
+}
+
+a[href^="https://www.youtube.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://www.youtube.com/);
+}
+
+a[href^="https://unityroom.com/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://unityroom.com/);
+}
+
+a[href^="https://cluster.mu/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://cluster.mu/);
+}
+
+a[href^="https://ivrc.net/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://ivrc.net/);
+}
+
 </style>
