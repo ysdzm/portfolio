@@ -88,7 +88,7 @@ layout: toc
 
 ## 💻 Web
 
-### サークルWebサイト
+### サークルWebサイト（2021）
 - 概要：
     - 大学サークルのWebサイトの初期実装を担当。HUGO（Go）。
 - リンク：
@@ -100,7 +100,7 @@ layout: toc
         </a>
         </div>
 
-### 個人サイト
+### 個人サイト（2024）
 - 概要：
     - 個人サイト。React製。
 - リンク：
@@ -112,7 +112,7 @@ layout: toc
         </a>
         </div>
 
-### 名工大大学院履修チェッカー
+### 名工大大学院履修チェッカー（2025）
 - 概要：
     - 大学院の履修要件を確認するサイト。Next.js製。WIP。
 - リンク：
@@ -120,7 +120,7 @@ layout: toc
 
 ## 🧩 その他
 
-### OculusQuestハンドトラッキング
+### OculusQuestハンドトラッキング（2021）
 - 概要：
     - OculusQuestハンドトラッキングでキャラクターを操ったもの。Unity。
 - リンク：
@@ -138,7 +138,7 @@ layout: toc
         </a>
         </div>
 
-### IroShpere-vrm
+### IroShpere-vrm（2023）
 - 概要：
     - IroSphereをvrmに対応させたもの。Unity。
 - リンク：
@@ -150,15 +150,15 @@ layout: toc
         </a>
         </div>
 
-### python-make-git
+### python-make-git（2023）
 - 概要：
     - LTの企画としてgitをpythonで再実装したもの。Python。
 - リンク：
     - [ysdzm/python-make-git: pythonでgitの挙動をシミュレートしたい](https://github.com/ysdzm/python-make-git)
 
-### おえかきBlendShape（pixivハッカソン）
+### おえかきBlendShape（2023）
 - 概要：
-    - vrmモデルの表情にラクガキができるようにするアプリ。Unity。
+    - vrmモデルの表情にラクガキができるようにするアプリ。pixivハッカソン。Unity。
 - リンク：
     - [【C0de*pixivハッカソン】おえかきBlendShape - 道端のドクダミ](https://dokudamichang.hatenablog.com/entry/2024/02/10/034112)
 - 画像：
@@ -170,7 +170,7 @@ layout: toc
 
 ## 🔬 研究
 
-### identicon-model
+### identicon-model（2023）
 - 概要：
     - identiconを3Dモデル拡張したidenticon-modelを作ってみたもの。Unity。
 - リンク：
@@ -182,7 +182,7 @@ layout: toc
         </a>
         </div>
 
-### identicon-model-maker
+### identicon-model-maker（2023）
 - 概要：
     - identicon-modelを題材としてキャラクター作成インタフェースを提案したもの。Unity。
 - リンク：
@@ -194,7 +194,7 @@ layout: toc
         </a>
         </div>
 
-### 人流可視化システム
+### 人流可視化システム（2024）
 - 概要：
     - 人流を凝集して可視化するシステムを実装したもの。Unity。
 - リンク：
@@ -211,7 +211,7 @@ layout: toc
 
 ## 🧊 3Dモデル
 
-### バーチャル名工大
+### バーチャル名工大（2020）
 - 概要：
     - 大学をモデリングしたもの。Blender。
 - リンク：
