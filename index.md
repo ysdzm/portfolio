@@ -133,7 +133,28 @@ layout: toc
 - リンク：
     - [バーチャル名工大正門前ver4.0｜メタバースプラットフォーム cluster（クラスター）](https://cluster.mu/w/f4c89c0d-720e-42b7-ad00-883c00e283c1)
 - 画像：
-    - <a href="images/image-24.png" target="_blank"><img src="images/image-24.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-16-1.png" target="_blank"><img src="images/image-16-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+  <div class="pswp-gallery">
+    <a href="images/image-24.png"
+       data-pswp-width="2000"
+       data-pswp-height="2000"
+       target="_blank">
+      <img src="images/image-24.png"
+           alt="alt text"
+           width="200"
+           height="200"
+           style="object-fit: cover;">
+    </a>
+    <a href="images/image-16-1.png"
+       data-pswp-width="2000"
+       data-pswp-height="2000"
+       target="_blank">
+      <img src="images/image-16-1.png"
+           alt="alt text"
+           width="200"
+           height="200"
+           style="object-fit: cover;">
+    </a>
+  </div>
 
 ## 謝辞
 - チーム開発においてご協力いただいた大学サークルの部員の皆様に、心より感謝の意を表します。
@@ -198,3 +219,17 @@ a[href^="https://ivrc.net/"]::before {
 }
 
 </style>
+
+<link rel="stylesheet" href="https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.css">
+
+<script type="module">
+  import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5.4.2/dist/photoswipe-lightbox.esm.min.js';
+
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '#gallery',
+    children: 'a',
+    pswpModule: () => import('https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.esm.min.js'),
+  });
+
+  lightbox.init();
+</script>
