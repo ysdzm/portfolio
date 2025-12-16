@@ -18,18 +18,16 @@ layout: toc
     - <https://nitmic.club.nitech.ac.jp/post/0004/>
 - 画像：
     - <div class="pswp-gallery" id="gallery">
-  <a href="images/image.png">
-    <img src="images/image.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-1.png">
-    <img src="images/image-1.png" alt="alt text" class="thumb">
-  </a>
-
-  <a href="images/image-2.png">
-    <img src="images/image-2.png" alt="alt text" class="thumb">
-  </a>
-</div>
+        <a href="images/image.png">
+            <img src="images/image.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-1.png">
+            <img src="images/image-1.png" alt="alt text" class="thumb">
+        </a>
+        <a href="images/image-2.png">
+            <img src="images/image-2.png" alt="alt text" class="thumb">
+        </a>
+    </div>
 
 ### もう一人の自分探し（2021）
 - 概要：
