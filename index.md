@@ -17,7 +17,20 @@ layout: toc
 - リンク：
     - <https://nitmic.club.nitech.ac.jp/post/0004/>
 - 画像：
-    - <a href="images/image.png" target="_blank"><img src="images/image.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-1.png" target="_blank"><img src="images/image-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-2.png" target="_blank"><img src="images/image-2.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image.png">
+    <img src="images/image.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-1.png">
+    <img src="images/image-1.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-2.png">
+    <img src="images/image-2.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### もう一人の自分探し（2021）
 - 概要：
@@ -25,7 +38,25 @@ layout: toc
 - リンク：
     - [もう一人の自分探し(2021) IVRC History Archive](https://ivrc.net/archive/%E3%82%82%E3%81%86%E4%B8%80%E4%BA%BA%E3%81%AE%E8%87%AA%E5%88%86%E6%8E%A2%E3%81%972021/)
 - 画像：
-    - <a href="images/image-7.png" target="_blank"><img src="images/image-7.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-9.png" target="_blank"><img src="images/image-9.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-19.png" target="_blank"><img src="images/image-19.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-20.png" target="_blank"><img src="images/image-20.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-7.png">
+    <img src="images/image-7.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-9.png">
+    <img src="images/image-9.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-19.png">
+    <img src="images/image-19.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-20.png">
+    <img src="images/image-20.png" alt="alt text" class="thumb">
+  </a>
+</div>
+
 
 ### nitechRacing（2021）
 - 概要：
@@ -33,7 +64,12 @@ layout: toc
 - リンク：
     - なし
 - 画像：
-    - <a href="images/image-14.png" target="_blank"><img src="images/image-14.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-14.png">
+    <img src="images/image-14.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### GlideGirl（2022）
 - 概要：
@@ -41,7 +77,24 @@ layout: toc
 - リンク：
     - <https://nitmic.club.nitech.ac.jp/post/glide-girl/>
 - 画像：
-    - <a href="images/image-12.png" target="_blank"><img src="images/image-12.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-3.png" target="_blank"><img src="images/image-3.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-4.png" target="_blank"><img src="images/image-4.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-5.png" target="_blank"><img src="images/image-5.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-12.png">
+    <img src="images/image-12.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-3.png">
+    <img src="images/image-3.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-4.png">
+    <img src="images/image-4.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-5.png">
+    <img src="images/image-5.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ## Web
 
@@ -51,7 +104,12 @@ layout: toc
 - リンク：
     - <https://github.com/nitmic/nitmic-website>
 - 画像：
-    - <a href="images/image-15.png" target="_blank"><img src="images/image-15.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-15.png">
+    <img src="images/image-15.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### 個人サイト
 - 概要：
@@ -59,7 +117,12 @@ layout: toc
 - リンク：
     - <https://blog.dokudamibox.net/>
 - 画像：
-    - <a href="images/image-16.png" target="_blank"><img src="images/image-16.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-16.png">
+    <img src="images/image-16.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### 名工大大学院履修チェッカー
 - 概要：
@@ -75,7 +138,20 @@ layout: toc
 - リンク：
     - [Midnight tension - YouTube](https://www.youtube.com/watch?v=BEyPwZgyrFE&embeds_referring_euri=https%3A%2F%2Fdokudamibox.net%2F)
 - 画像：
-    - <a href="images/image-29.png" target="_blank"><img src="images/image-29.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-30.png" target="_blank"><img src="images/image-30.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/image-33.png" target="_blank"><img src="images/image-33.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-29.png">
+    <img src="images/image-29.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-30.png">
+    <img src="images/image-30.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-33.png">
+    <img src="images/image-33.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### IroShpere-vrm
 - 概要：
