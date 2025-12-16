@@ -83,7 +83,12 @@ layout: toc
 - リンク：
     - [ysdzm/IroSphere-vrm](https://github.com/ysdzm/IroSphere-vrm)
 - 画像：
-    - <a href="images/image-13.png" target="_blank"><img src="images/image-13.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-13.png">
+    <img src="images/image-13.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### python-make-git
 - 概要：
@@ -97,7 +102,12 @@ layout: toc
 - リンク：
     - [【C0de*pixivハッカソン】おえかきBlendShape - 道端のドクダミ](https://dokudamichang.hatenablog.com/entry/2024/02/10/034112)
 - 画像：
-    - <a href="images/image-13-1.png" target="_blank"><img src="images/image-13-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-13-1.png">
+    <img src="images/image-13-1.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ## 研究
 
@@ -107,7 +117,12 @@ layout: toc
 - リンク：
     - [identicon-model フリーゲーム投稿サイト unityroom](https://unityroom.com/games/identicon-model)
 - 画像：
-    - <a href="images/image-11.png" target="_blank"><img src="images/image-11.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-11.png">
+    <img src="images/image-11.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### identicon-model-maker
 - 概要：
@@ -115,7 +130,12 @@ layout: toc
 - リンク：
     - [情報処理学会第86回全国大会 identicon-modelを用いたアバタ作成のための探索的デザイン補助キャラクター作成インタフェース](https://www.ipsj.or.jp/event/taikai/86/WEB/data/pdf/2ZF-05.html)
 - 画像：
-    - <a href="images/image-6.png" target="_blank"><img src="images/image-6.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-6.png">
+    <img src="images/image-6.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ### 人流可視化システム
 - 概要：
@@ -123,7 +143,16 @@ layout: toc
 - リンク：
     - [wiss.org/WISS2024Proceedings/data/demo//3-A04.pdf](https://www.wiss.org/WISS2024Proceedings/data/demo//3-A04.pdf)
 - 画像：
-    - <a href="images/image-34.png" target="_blank"><img src="images/image-34.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a> <a href="images/clustering.gif" target="_blank"><img src="images/clustering.gif" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-34.png">
+    <img src="images/image-34.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/clustering.gif">
+    <img src="images/clustering.gif" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ## 3Dモデル
 
@@ -133,28 +162,16 @@ layout: toc
 - リンク：
     - [バーチャル名工大正門前ver4.0｜メタバースプラットフォーム cluster（クラスター）](https://cluster.mu/w/f4c89c0d-720e-42b7-ad00-883c00e283c1)
 - 画像：
-  <div class="pswp-gallery">
-    <a href="images/image-24.png"
-       data-pswp-width="2000"
-       data-pswp-height="2000"
-       target="_blank">
-      <img src="images/image-24.png"
-           alt="alt text"
-           width="200"
-           height="200"
-           style="object-fit: cover;">
-    </a>
-    <a href="images/image-16-1.png"
-       data-pswp-width="2000"
-       data-pswp-height="2000"
-       target="_blank">
-      <img src="images/image-16-1.png"
-           alt="alt text"
-           width="200"
-           height="200"
-           style="object-fit: cover;">
-    </a>
-  </div>
+
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-24.png">
+    <img src="images/image-24.png" alt="alt text" class="thumb">
+  </a>
+
+  <a href="images/image-16-1.png">
+    <img src="images/image-16-1.png" alt="alt text" class="thumb">
+  </a>
+</div>
 
 ## 謝辞
 - チーム開発においてご協力いただいた大学サークルの部員の皆様に、心より感謝の意を表します。
