@@ -50,7 +50,7 @@ layout: toc
     - 大学サークルのWebサイトの初期実装を担当。HUGO（Go）。
 - リンク：
     - [nitmic/nitmic-website: 名古屋工業大学コンピュータ俱楽部 NITMic の公式ウェブサイト](https://github.com/nitmic/nitmic-website)
-- 画像；
+- 画像：
     - <a href="images/image-15.png" target="_blank"><img src="images/image-15.png" alt="alt text" width="200" height="200" style="object-fit: cover;"></a>
 
 ### 個人サイト
