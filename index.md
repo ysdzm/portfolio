@@ -222,6 +222,16 @@ a[href^="https://ivrc.net/"]::before {
 
 <link rel="stylesheet" href="https://unpkg.com/photoswipe@5.4.2/dist/photoswipe.css">
 
+<div class="pswp-gallery" id="gallery">
+  <a href="images/image-24.png" data-pswp-width="2000" data-pswp-height="2000">
+    <img src="images/image-24.png" alt="alt text" width="200" height="200" style="object-fit: cover;">
+  </a>
+
+  <a href="images/image-16-1.png" data-pswp-width="2000" data-pswp-height="2000">
+    <img src="images/image-16-1.png" alt="alt text" width="200" height="200" style="object-fit: cover;">
+  </a>
+</div>
+
 <script type="module">
   import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5.4.2/dist/photoswipe-lightbox.esm.min.js';
 
