@@ -7,6 +7,7 @@ layout: toc
 - <https://github.com/ysdzm>
 - <https://qiita.com/dokudami>
 - <https://dokudamichang.hatenablog.com/archive>
+- <https://nitmic.club.nitech.ac.jp/authors/dokudami/>
 
 ## 👾 ゲーム
 
@@ -353,4 +354,5 @@ a[href^="https://ivrc.net/"]::before {
 
   lightbox.init();
 </script>
+
 
