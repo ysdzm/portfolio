@@ -105,7 +105,7 @@ layout: toc
 - 概要：
     - 個人サイト。React製。
 - リンク：
-    - <https://blog.dokudamibox.net/>
+    - <https://dokudamibox.net/>
 - 画像：
     - <div class="pswp-gallery" id="gallery">
         <a href="images/image-16.png">
@@ -263,7 +263,7 @@ a:is(
   [href^="https://github.com/"],
   [href^="https://dokudamichang.hatenablog.com/"],
   [href^="https://qiita.com/"],
-  [href^="https://blog.dokudamibox.net/"],
+  [href^="https://dokudamibox.net/"],
   [href^="https://nitmic.club.nitech.ac.jp/"],
   [href^="https://www.youtube.com/"],
   [href^="https://unityroom.com/"],
@@ -292,8 +292,8 @@ a[href^="https://qiita.com/"]::before {
     background: url(http://www.google.com/s2/favicons?domain=https://qiita.com/);
 }
 
-a[href^="https://blog.dokudamibox.net/"]::before {
-    background: url(http://www.google.com/s2/favicons?domain=https://blog.dokudamibox.net/);
+a[href^="https://dokudamibox.net/"]::before {
+    background: url(http://www.google.com/s2/favicons?domain=https://dokudamibox.net/);
 }
 
 a[href^="https://nitmic.club.nitech.ac.jp/"]::before {
@@ -354,5 +354,6 @@ a[href^="https://ivrc.net/"]::before {
 
   lightbox.init();
 </script>
+
 
 
